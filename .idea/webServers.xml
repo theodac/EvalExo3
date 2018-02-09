@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="867d6f0e-12d9-474d-88fb-e62e132b593d" name="LOCALE" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\EvalExo3" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
